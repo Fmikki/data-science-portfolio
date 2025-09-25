@@ -55,8 +55,8 @@ Random Forest is most effective for capturing complex relationships in customer 
 ---
 
 ## 🔗 Files in this Folder
-- `churn_model.ipynb` → Jupyter Notebook with full analysis  
-- `Churn_Modelling.csv` → Dataset  
+- `[churn_model.ipynb](./churn_model.ipynb)` → Jupyter Notebook with full analysis  
+- `[Churn_Modelling.csv](./Churn_Modelling.csv)` → Dataset  
 - `confusion_matrix.png`, `churn_heatmap.png` → Visuals  
 - `README.md` → Project summary  
 
